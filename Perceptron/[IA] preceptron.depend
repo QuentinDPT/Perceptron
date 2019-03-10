@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1514093494 source:c:\users\pc-quentin\desktop\[ia] preceptron\main.cpp
+	"Preceptron.hpp"
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1514085168 c:\users\pc-quentin\desktop\[ia] preceptron\include\preceptron.hpp
+	<vector>
+
+1514086512 source:c:\users\pc-quentin\desktop\[ia] preceptron\src\preceptron.cpp
+	"Preceptron.hpp"
+	<math.h>
+	<iostream>
+
